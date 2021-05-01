@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'info.solidsoft.pitest' version '1.4.6'
+}
+
+application {
+    mainClassName = 'com.g75.Application'
+}
+
+pitest{
+    targetClasses = ['com.g75.Commands.*','com.g75.Controller.*','com.g75.Strategies.*','com.g75.View.*','com.g75.Model.*']
+}
+
+
+group 'com.g75'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.googlecode.lanterna', name: 'lanterna', version: '3.0.1'
+}

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="150" viewBox="0 0 60 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1"  baseProfile="full">
+ <g id="mainlayer" font-size="10" style="font-family: monospace">
+<rect style="fill:#000" x="0" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="12" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="18" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="24" y="0" width="6" height="10"/>
+<rect style="fill:#00a" x="30" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="36" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="42" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="0" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="10" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="10" width="6" height="10"/>
+<rect style="fill:#00a" x="12" y="10" width="6" height="10"/>
+<rect style="fill:#00a" x="18" y="10" width="6" height="10"/>
+<rect style="fill:#55f" x="24" y="10" width="6" height="10"/>
+<rect style="fill:#00a" x="30" y="10" width="6" height="10"/>
+<rect style="fill:#55f" x="36" y="10" width="6" height="10"/>
+<rect style="fill:#00a" x="42" y="10" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="10" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="10" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="20" width="6" height="10"/>
+<rect style="fill:#00a" x="6" y="20" width="6" height="10"/>
+<rect style="fill:#00a" x="12" y="20" width="6" height="10"/>
+<rect style="fill:#55f" x="18" y="20" width="6" height="10"/>
+<rect style="fill:#00a" x="24" y="20" width="6" height="10"/>
+<rect style="fill:#aaa" x="30" y="20" width="6" height="10"/>
+<rect style="fill:#00a" x="36" y="20" width="6" height="10"/>
+<rect style="fill:#00a" x="42" y="20" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="20" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="20" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="30" width="6" height="10"/>
+<rect style="fill:#00a" x="6" y="30" width="6" height="10"/>
+<rect style="fill:#55f" x="12" y="30" width="6" height="10"/>
+<rect style="fill:#55f" x="18" y="30" width="6" height="10"/>
+<rect style="fill:#aaa" x="24" y="30" width="6" height="10"/>
+<rect style="fill:#55f" x="30" y="30" width="6" height="10"/>
+<rect style="fill:#55f" x="36" y="30" width="6" height="10"/>
+<rect style="fill:#00a" x="42" y="30" width="6" height="10"/>
+<rect style="fill:#00a" x="48" y="30" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="30" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="40" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="40" width="6" height="10"/>
+<rect style="fill:#000" x="12" y="40" width="6" height="10"/>
+<rect style="fill:#00a" x="18" y="40" width="6" height="10"/>
+<rect style="fill:#0aa" x="24" y="40" width="6" height="10"/>
+<rect style="fill:#0aa" x="30" y="40" width="6" height="10"/>
+<rect style="fill:#00a" x="36" y="40" width="6" height="10"/>
+<rect style="fill:#00a" x="42" y="40" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="40" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="40" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="50" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="50" width="6" height="10"/>
+<rect style="fill:#555" x="12" y="50" width="6" height="10"/>
+<rect style="fill:#555" x="18" y="50" width="6" height="10"/>
+<rect style="fill:#555" x="24" y="50" width="6" height="10"/>
+<rect style="fill:#555" x="30" y="50" width="6" height="10"/>
+<rect style="fill:#aaa" x="36" y="50" width="6" height="10"/>
+<rect style="fill:#555" x="42" y="50" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="50" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="50" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="60" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="60" width="6" height="10"/>
+<rect style="fill:#555" x="12" y="60" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="60" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="60" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="60" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="60" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="60" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="60" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="60" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="70" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="70" width="6" height="10"/>
+<rect style="fill:#aaa" x="12" y="70" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="70" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="70" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="70" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="70" width="6" height="10"/>
+<rect style="fill:#555" x="42" y="70" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="70" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="70" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="80" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="80" width="6" height="10"/>
+<rect style="fill:#555" x="12" y="80" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="80" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="80" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="80" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="80" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="80" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="80" width="6" height="10"/>
+<rect style="fill:#555" x="54" y="80" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="90" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="90" width="6" height="10"/>
+<rect style="fill:#aaa" x="12" y="90" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="90" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="90" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="90" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="90" width="6" height="10"/>
+<rect style="fill:#555" x="42" y="90" width="6" height="10"/>
+<rect style="fill:#555" x="48" y="90" width="6" height="10"/>
+<rect style="fill:#aaa" x="54" y="90" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="100" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="100" width="6" height="10"/>
+<rect style="fill:#555" x="12" y="100" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="100" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="100" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="100" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="100" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="100" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="100" width="6" height="10"/>
+<rect style="fill:#aaa" x="54" y="100" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="110" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="110" width="6" height="10"/>
+<rect style="fill:#aaa" x="12" y="110" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="110" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="110" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="110" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="110" width="6" height="10"/>
+<rect style="fill:#555" x="42" y="110" width="6" height="10"/>
+<rect style="fill:#555" x="48" y="110" width="6" height="10"/>
+<rect style="fill:#aaa" x="54" y="110" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="120" width="6" height="10"/>
+<rect style="fill:#000" x="6" y="120" width="6" height="10"/>
+<rect style="fill:#555" x="12" y="120" width="6" height="10"/>
+<rect style="fill:#fff" x="18" y="120" width="6" height="10"/>
+<rect style="fill:#fff" x="24" y="120" width="6" height="10"/>
+<rect style="fill:#fff" x="30" y="120" width="6" height="10"/>
+<rect style="fill:#fff" x="36" y="120" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="120" width="6" height="10"/>
+<rect style="fill:#000" x="48" y="120" width="6" height="10"/>
+<rect style="fill:#aaa" x="54" y="120" width="6" height="10"/>
+<rect style="fill:#aaa" x="0" y="130" width="6" height="10"/>
+<rect style="fill:#0aa" x="6" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="12" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="18" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="24" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="30" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="36" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="48" y="130" width="6" height="10"/>
+<rect style="fill:#aaa" x="54" y="130" width="6" height="10"/>
+<rect style="fill:#000" x="0" y="140" width="6" height="10"/>
+<rect style="fill:#aaa" x="6" y="140" width="6" height="10"/>
+<rect style="fill:#0aa" x="12" y="140" width="6" height="10"/>
+<rect style="fill:#aaa" x="18" y="140" width="6" height="10"/>
+<rect style="fill:#aaa" x="24" y="140" width="6" height="10"/>
+<rect style="fill:#aaa" x="30" y="140" width="6" height="10"/>
+<rect style="fill:#0aa" x="36" y="140" width="6" height="10"/>
+<rect style="fill:#aaa" x="42" y="140" width="6" height="10"/>
+<rect style="fill:#0aa" x="48" y="140" width="6" height="10"/>
+<rect style="fill:#000" x="54" y="140" width="6" height="10"/>
+<text style="fill:#00a" x="18" y="8">.</text>
+<text style="fill:#55f" x="30" y="8">8</text>
+<text style="fill:#00a" x="36" y="8">t</text>
+<text style="fill:#00a" x="42" y="8">.</text>
+<text style="fill:#00a" x="0" y="18">;</text>
+<text style="fill:#00a" x="6" y="18">.</text>
+<text style="fill:#555" x="12" y="18">S</text>
+<text style="fill:#55f" x="18" y="18">8</text>
+<text style="fill:#00a" x="24" y="18">8</text>
+<text style="fill:#55f" x="30" y="18">8</text>
+<text style="fill:#00a" x="36" y="18">X</text>
+<text style="fill:#000" x="42" y="18">X</text>
+<text style="fill:#00a" x="48" y="18">;</text>
+<text style="fill:#55f" x="6" y="28">t</text>
+<text style="fill:#55f" x="12" y="28">%</text>
+<text style="fill:#00a" x="18" y="28">8</text>
+<text style="fill:#55f" x="24" y="28">@</text>
+<text style="fill:#5ff" x="30" y="28">8</text>
+<text style="fill:#55f" x="36" y="28">@</text>
+<text style="fill:#000" x="42" y="28">;</text>
+<text style="fill:#00a" x="54" y="28">:</text>
+<text style="fill:#555" x="0" y="38">X</text>
+<text style="fill:#000" x="6" y="38">:</text>
+<text style="fill:#00a" x="12" y="38">8</text>
+<text style="fill:#00a" x="18" y="38">8</text>
+<text style="fill:#00a" x="30" y="38">8</text>
+<text style="fill:#00a" x="36" y="38">X</text>
+<text style="fill:#55f" x="42" y="38">%</text>
+<text style="fill:#555" x="48" y="38">X</text>
+<text style="fill:#00a" x="12" y="48">X</text>
+<text style="fill:#0aa" x="18" y="48">%</text>
+<text style="fill:#555" x="24" y="48">8</text>
+<text style="fill:#555" x="30" y="48">8</text>
+<text style="fill:#000" x="36" y="48">.</text>
+<text style="fill:#000" x="42" y="48">8</text>
+<text style="fill:#00a" x="0" y="58">;</text>
+<text style="fill:#0aa" x="12" y="58">.</text>
+<text style="fill:#aaa" x="24" y="58">8</text>
+<text style="fill:#555" x="36" y="58">8</text>
+<text style="fill:#000" x="42" y="58">8</text>
+<text style="fill:#00a" x="48" y="58">;</text>
+<text style="fill:#00a" x="6" y="68">:</text>
+<text style="fill:#aaa" x="24" y="68">%</text>
+<text style="fill:#aaa" x="36" y="68">X</text>
+<text style="fill:#555" x="42" y="68">8</text>
+<text style="fill:#00a" x="54" y="68">:</text>
+<text style="fill:#555" x="0" y="78">X</text>
+<text style="fill:#555" x="12" y="78">S</text>
+<text style="fill:#aaa" x="18" y="78">;</text>
+<text style="fill:#aaa" x="30" y="78">.</text>
+<text style="fill:#aaa" x="42" y="78">X</text>
+<text style="fill:#555" x="48" y="78">X</text>
+<text style="fill:#aaa" x="24" y="88">@</text>
+<text style="fill:#aaa" x="36" y="88">S</text>
+<text style="fill:#555" x="42" y="88">8</text>
+<text style="fill:#00a" x="48" y="88">.</text>
+<text style="fill:#0aa" x="54" y="88">S</text>
+<text style="fill:#00a" x="0" y="98">;</text>
+<text style="fill:#555" x="12" y="98">%</text>
+<text style="fill:#aaa" x="18" y="98">:</text>
+<text style="fill:#aaa" x="30" y="98">t</text>
+<text style="fill:#aaa" x="42" y="98">@</text>
+<text style="fill:#00a" x="48" y="98">8</text>
+<text style="fill:#0aa" x="54" y="98">8</text>
+<text style="fill:#00a" x="6" y="108">:</text>
+<text style="fill:#aaa" x="24" y="108">%</text>
+<text style="fill:#aaa" x="36" y="108">X</text>
+<text style="fill:#555" x="42" y="108">8</text>
+<text style="fill:#00a" x="48" y="108">X</text>
+<text style="fill:#5ff" x="54" y="108">X</text>
+<text style="fill:#555" x="0" y="118">X</text>
+<text style="fill:#555" x="12" y="118">S</text>
+<text style="fill:#aaa" x="18" y="118">;</text>
+<text style="fill:#aaa" x="30" y="118">.</text>
+<text style="fill:#aaa" x="42" y="118">X</text>
+<text style="fill:#00a" x="48" y="118">S</text>
+<text style="fill:#0aa" x="54" y="118">8</text>
+<text style="fill:#aaa" x="24" y="128">@</text>
+<text style="fill:#aaa" x="36" y="128">S</text>
+<text style="fill:#555" x="42" y="128">8</text>
+<text style="fill:#00a" x="48" y="128">%</text>
+<text style="fill:#5ff" x="54" y="128">@</text>
+<text style="fill:#0aa" x="0" y="138">@</text>
+<text style="fill:#555" x="6" y="138">8</text>
+<text style="fill:#5ff" x="18" y="138">X</text>
+<text style="fill:#0aa" x="30" y="138">@</text>
+<text style="fill:#fff" x="36" y="138">:</text>
+<text style="fill:#0aa" x="42" y="138">8</text>
+<text style="fill:#0aa" x="48" y="138">@</text>
+<text style="fill:#0aa" x="54" y="138">8</text>
+<text style="fill:#0aa" x="6" y="148">8</text>
+<text style="fill:#aaa" x="12" y="148">8</text>
+<text style="fill:#5ff" x="18" y="148">@</text>
+<text style="fill:#0aa" x="24" y="148">8</text>
+<text style="fill:#5ff" x="30" y="148">X</text>
+<text style="fill:#aaa" x="36" y="148">8</text>
+<text style="fill:#5ff" x="42" y="148">@</text>
+<text style="fill:#555" x="48" y="148">8</text>
+<text style="fill:#00a" x="54" y="148">:</text>
+ </g>
+</svg>
