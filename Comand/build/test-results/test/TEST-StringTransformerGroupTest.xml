@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringTransformerGroupTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-03-23T19:01:49" hostname="LAPTOP-F4MC882R" time="0.005">
+  <properties/>
+  <testcase name="transformerComposite" classname="StringTransformerGroupTest" time="0.003"/>
+  <testcase name="tranformerGroup" classname="StringTransformerGroupTest" time="0.001"/>
+  <system-out><![CDATA[DcBx-dCbA
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

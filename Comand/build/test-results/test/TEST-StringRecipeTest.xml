@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringRecipeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-23T19:01:49" hostname="LAPTOP-F4MC882R" time="0.001">
+  <properties/>
+  <testcase name="stringRecipe" classname="StringRecipeTest" time="0.001"/>
+  <system-out><![CDATA[dCbX-DcBa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

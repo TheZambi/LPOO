@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlienTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-23T19:01:48" hostname="LAPTOP-F4MC882R" time="0.043">
+  <properties/>
+  <testcase name="ferengiStartClosed" classname="AlienTest" time="0.041"/>
+  <testcase name="ferengiAlreadyOpened" classname="AlienTest" time="0.0"/>
+  <testcase name="romulan" classname="AlienTest" time="0.001"/>
+  <system-out><![CDATA[dCbX-DcBa
+dCbX-DcBa
+dCbX-DcBa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
